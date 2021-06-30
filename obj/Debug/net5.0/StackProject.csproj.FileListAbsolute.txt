@@ -1,0 +1,16 @@
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.exe
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.deps.json
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.runtimeconfig.json
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.runtimeconfig.dev.json
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.dll
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\ref\StackProject.dll
+C:\Users\cjcma\source\repos\StackProject\bin\Debug\net5.0\StackProject.pdb
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.csproj.AssemblyReference.cache
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.AssemblyInfoInputs.cache
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.AssemblyInfo.cs
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.csproj.CoreCompileInputs.cache
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.dll
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\ref\StackProject.dll
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.pdb
+C:\Users\cjcma\source\repos\StackProject\obj\Debug\net5.0\StackProject.genruntimeconfig.cache
